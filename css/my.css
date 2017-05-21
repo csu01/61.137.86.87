@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0;padding:0;text-decoration:none}
+
+#contain {height:586px;width:915px;margin-left:auto;margin-right:auto;}
+#01 {width:915px;height:92px;margin-left:auto;margin-right:auto;}
+
+
+#adv{width:915px;height:494px;float:left;margin-top:0px;background-color:#FFFCFC;}
+#adv_l{width:234px;height:494px;float:left;background-color:#CCC;}
+.advs{width:680px;height:493px;float:left;background-color:#FFFCFC;border-style:solid;border-right-color:#333333;border-width:0px;position:relative;z-index:1;border-right-width:1px;border-right-color:#736969;border-bottom-width:1px;border-bottom-color:#736969;}
+#wai{width:591px;height:424px;float:left;position:absolute;z-index:2;left:45px; top:25px; background-color:#B8D180;border-radius:8px;}
+#zhong{width:561px;height:400px;position:absolute;left:15px;top:12px;background-color:#73A10A;border-radius:12px;}
+#zhong a{text-decoration:underline;color:#333333;}
+#li{width:491px;height:106px;position:absolute;left:35px;top:25px;background-color:#E86D03;border-radius:8px;}
+
+#usercount,#mima{border:1px;border-style:solid;border-color:#333333;border-width:1px;width:180px;height:23px;}
+
