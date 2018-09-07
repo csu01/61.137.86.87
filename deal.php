@@ -64,8 +64,8 @@ else
 ?>
 <script>
 layer.open({
-  title: '数字中南校园智慧网2'
-  ,content: '服务器压力过大,拒绝认证!'
+  title: '数字中南校园智慧网'
+  ,content: '服务器压力过大,请稍后重试!'
 }); 
 </script>
 
